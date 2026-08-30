@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+
+# VSCode "Code Runner" extension artifact — regenerated locally, not part
+# of the project (this has been accidentally committed and removed before).
+tempCodeRunnerFile.py
+
+# Raw purchased/downloaded asset-pack sources (e.g. craftpix folders with
+# .psd files) — only the renamed files actually copied into assets/ are
+# part of the game; keep the repo free of unused source dumps.
+jinn_monster/
