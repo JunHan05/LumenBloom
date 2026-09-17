@@ -11,8 +11,3 @@ Key highlights:
 - Language: Python 3.10+ (project targets Python 3.10+)
 - Runtime / Framework: Pygame (game loop + rendering)
 - Notable libraries: Pygame (or Pygame CE), common Python stdlib modules for assets/IO
-
-## Quickstart — run the game
-1. Clone repository
-2. Create and activate a virtual environment
-3. Install dependencies and run
